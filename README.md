@@ -34,6 +34,7 @@ fullstack-setup-practice/
 ```bash
 git clone https://github.com/ManthanThakor/fullstack-setup-practice.git
 cd fullstack-setup-practice
+```
 
 ### 2️⃣ Backend Setup (Node + Express)
 
